@@ -1,6 +1,6 @@
-#TextUtils Web App
+# TextUtils Web App
 
-##Developed a basic Text Utilities web app using React JS that offers a variety of text manipulation features:
+## Developed a basic Text Utilities web app using React JS that offers a variety of text manipulation features:
 
 - **Text Transformations:** Convert text to uppercase, lowercase, or capitalize each word.
 - **Clipboard Operations:** Copy formatted text to the clipboard.
